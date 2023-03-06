@@ -18,6 +18,12 @@ main {
     color: black;
 }
 
+.video {
+    height: 350px;
+    width: 500px;
+    margin: 20px 0px 0px 20px;
+}
+
 div {
     text-align: center;
     padding: 20px;
